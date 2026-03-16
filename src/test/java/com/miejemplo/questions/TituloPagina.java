@@ -6,7 +6,7 @@ import net.serenitybdd.screenplay.abilities.BrowseTheWeb;
 
 public class TituloPagina implements Question<String> {
 
-    public static TituloPagina delResultadoDeBusqueda() {
+    public static TituloPagina actual() {
         return new TituloPagina();
     }
 
