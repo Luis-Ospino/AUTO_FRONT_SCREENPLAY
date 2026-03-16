@@ -1,4 +1,4 @@
-package com.miejemplo.util;
+package com.miejemplo.ui;
 
 import net.serenitybdd.screenplay.targets.Target;
 
